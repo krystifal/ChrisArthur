@@ -1,0 +1,12 @@
+h3 {
+  color: red;
+}
+.special {
+  color: blue;
+}
+.pricing-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: centre;
+}
